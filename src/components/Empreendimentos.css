@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+.empreendimentos-section {
+    padding: 40px 0;
+    text-align: center;
+}
+
+.empreendimentos-list {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.empreendimento-item {
+    width: 20%;
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.empreendimento-img {
+    max-width: 100%;
+    border-radius: 4px;
+}
+

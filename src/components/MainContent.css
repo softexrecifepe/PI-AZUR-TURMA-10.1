@@ -1,0 +1,59 @@
+/* src/components/MainContent.css */
+.main-content {
+    padding: 67px;
+}
+
+.team-section h2,
+.crm-panel h3 {
+    font-size: 36px;
+    margin-bottom: 10px;
+    color: #000; 
+    font-weight: normal;
+}
+
+.team-section h3 {
+    font-size: 18px;
+    color: #000; 
+    margin-top: 20px;
+}
+
+.client-list {
+    border: 1px solid #ddd;
+    margin-top: 20px;
+}
+
+.client-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.client-item span {
+    width: 25%;
+}
+
+.export-options {
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+.export-options a {
+    margin-right: 15px;
+    color: #007BFF;
+    text-decoration: none;
+}
+
+.export-options a:hover {
+    text-decoration: underline;
+}
+
+.crm-panel {
+    margin-top: 40px;
+}
+
+.crm-stats {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-top: 10px;
+}
