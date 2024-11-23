@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "b955",
+      "nome": "GABRIEL HENRIQUE LAPA",
+      "data": "2001-01-11",
+      "tel": "81986671197",
+      "email": "gabriel.lapa2001@yahoo.com.br",
+      "senha": "12345678"
+    },
+    {
+      "id": "93ab",
+      "nome": "Camilla Christie",
+      "data": "2001-04-07",
+      "tel": "81986671197",
+      "email": "camillalinda@gmail.com",
+      "senha": "amogabriel"
+    }
+  ]
+}

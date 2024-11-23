@@ -15,7 +15,6 @@ function MainContent() {
                         <span>Planta A</span>
                         <span>Reunião</span>
                     </div>
-                    {/* Adicione outros clientes aqui */}
                 </div>
                 <div className="export-options">
                     <a href="/azur-app/src/img/csv.png">exportar como .csv</a>
